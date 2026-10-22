@@ -1,0 +1,14 @@
+{
+  "name": "credit-bank-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Alfa Hack credit cabinet frontend with replaceable browser demo adapter",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node dev-server.mjs",
+    "dev": "node dev-server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check src/app.js && node --check src/demo-api.js && node --check src/domain.js && node --check dev-server.mjs"
+  }
+}

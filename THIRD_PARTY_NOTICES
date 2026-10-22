@@ -1,0 +1,12 @@
+This is a hackathon demonstration frontend, not an official banking product.
+
+Alfa reference artwork and logo:
+  Source: team-provided Figma file https://www.figma.com/design/wyNhLChU5ZpudZpuuE5RDX/Alfa
+  Wallet illustration: source node 26:267, used in landing node 33:240.
+  Logo: source icon in the same file.
+  Rights remain with their respective owners. No redistribution license is inferred.
+  Confirm permitted use before public/commercial distribution.
+
+No third-party JavaScript packages are required. Node.js is used as a local static preview runtime.
+The CSS requests Inter when installed locally, with Arial/sans-serif fallback; no font files are bundled.
+Alfa Interface Sans is not distributed with this project.
